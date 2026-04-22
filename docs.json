@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Naresh Trehan",
+    "image_url": "/static/doc1.png"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Devi Prasad Shetty",
+    "image_url": "/static/doc2.png"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Ramakanta Panda",
+    "image_url": "/static/doc3.png"
+  },
+  {
+    "id": 4,
+    "name": "Dr. T.S. Kler",
+    "image_url": "/static/doc4.png"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Ashok Seth",
+    "image_url": "/static/doc5.png"
+  },
+  {
+    "id": 6,
+    "name": "Dr. K. Srinath Reddy",
+    "image_url": "/static/doc6.png"
+  },
+  {
+    "id": 7,
+    "name": "Dr. V. Bhaskar Rao",
+    "image_url": "/static/doc3.png"
+  },
+  {
+    "id": 8,
+    "name": "Dr. C.N. Manjunath",
+    "image_url": "/static/doc3.png"
+  },
+  {
+    "id": 9,
+    "name": "Dr. P. Rajasekhar",
+    "image_url": "/static/doc3.png"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Kunal Sarkar",
+    "image_url": "/static/doc3.png"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Sameer Mehrotra",
+    "image_url": "/static/doc3.png"
+  },
+  {
+    "id": 12,
+    "name": "Dr. H.K. Chopra",
+    "image_url": "/static/doc3.png"
+  }
+]
